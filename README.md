@@ -1,2 +1,2 @@
-## ZERONuker
-# discord.gg/zerovrc for support
+## 😈 ZERONuker 😈
+# 😈 support @ discord.gg/zerovrc
