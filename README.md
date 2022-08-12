@@ -36,3 +36,6 @@
 ▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 
 Any issues using our software join our community discord.gg/zerovrc
+
+
+discord.rpc test
