@@ -31,5 +31,8 @@
 
 ## Both bots come with great anti nuke features + general moderation features.
 
-▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 ![images](https://user-images.githubusercontent.com/111097780/184284234-91373bfe-98d1-4168-9d8b-542dab41152b.png)
+
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+
+Any issues using our software join our community discord.gg/zerovrc
